@@ -1,0 +1,6 @@
+{
+  "name": "Fruity Merge",
+  "description": "Game penggabungan buah fisika 2D modern yang seru dan adiktif untuk anak-anak dan dewasa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
